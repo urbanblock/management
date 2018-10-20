@@ -1,7 +1,4 @@
-# My Management Readme
-
-
-
+﻿# My Management Readme
 
 ## What you can expect of me as your manager
 
